@@ -19,7 +19,6 @@ This web-based game allows users to play Rock, Paper, Scissors against the compu
 - 💬 Message display for each round result
 - 📱 Fully responsive layout
 
----
 
-## 📁 Project Structure
+
 
